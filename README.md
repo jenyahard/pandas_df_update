@@ -1,21 +1,15 @@
-Установка
-Клонирование репозитория:
+# Установка
 
-shell
-Copy code
-$ git clone https://github.com/ваш-username/название-репозитория.git
-Перейдите в директорию проекта:
+## Клонирование репозитория:
+"""$ git clone https://github.com/ваш-username/название-репозитория.git"""
 
-shell
-Copy code
+## Перейдите в директорию проекта:
 $ cd название-репозитория
-Создание и активация виртуального окружения:
+
+## Создание и активация виртуального окружения:
 
 Windows:
-
-shell
-Copy code
-$ python -m venv venv
+"""$ python -m venv venv"""
 $ venv\Scripts\activate
 macOS и Linux:
 
